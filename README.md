@@ -8,14 +8,14 @@
 
 
 ## 🛠️ :Projects
-### てんProxy
+### ・Proxy
 *[sui-han-ki Proxy ver.1]()*
 
 Currently under development
 
-### てんYoutube
+### ・Youtube
 *[Yuki Youtube(sui-han-ki ver.)]()*
 
 yuki youtube is one of the youtube proxy.It is so useful.(I wasn't make it.I Imported.)
 
-### * Game
+### ・Game
