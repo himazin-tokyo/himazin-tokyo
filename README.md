@@ -9,6 +9,9 @@
 
 ## 🛠️ :Projects
 ### * Proxy
+*[sui-han-ki Proxy ver.1]()*
+Currently under development
+
 ### * Youtube
 *[Yuki Youtube(sui-han-ki ver.)]()*
 
