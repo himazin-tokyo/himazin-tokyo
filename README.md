@@ -12,6 +12,6 @@
 
 <details>
   <summary>Proxy</summary>
-  <summary>Youtube unblocker</summary>
+<summary>Youtube unblocker</summary>
 
  
