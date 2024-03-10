@@ -13,5 +13,7 @@
 ## 🛠️ :𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤
 
 <details>
-  <summary>...</summary>
+  <summary>Proxy</summary>
+  test
+  tester
  
