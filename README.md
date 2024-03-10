@@ -3,3 +3,5 @@
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=himazin-tokyo&style=flat" alt="himazin-tokyo" />
+
+![himazin-tokyo's stats](https://github-readme-stats.vercel.app/api?username=himazin-tokyo&count_private=true&show_icons=true&theme=github_dark
