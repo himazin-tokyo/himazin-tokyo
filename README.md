@@ -12,6 +12,6 @@
 ### * Youtube
 *[Yuki Youtube(sui-han-ki ver.)](https://github.com)*
 
-yuki youtube is on of the youtube proxy.It is so useful.(I wasn't make it.I Imported.)
+yuki youtube is one of the youtube proxy.It is so useful.(I wasn't make it.I Imported.)
 
 ### * Game
