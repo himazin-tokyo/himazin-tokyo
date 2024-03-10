@@ -15,12 +15,3 @@
 <details>
   <summary>...</summary>
  
-<div align="center">
-
- 
- | Github Stats | Top Languages |
-| --- | --- |
-| <a href="https://github.com/CyberTitus"><img src="https://github-readme-stats.vercel.app/api?username=AbdulRKB&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true"></a> | <a href="https://github.com/AbdulRKB"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRKB&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"></a> |
- 
- </div>
- 
