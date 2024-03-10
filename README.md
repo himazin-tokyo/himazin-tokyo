@@ -10,4 +10,4 @@
 
 ## 🛠️ :Projects
 <details>
-<summary>Web sites</summary>
+<summary><b>Web sites</b></summary>
