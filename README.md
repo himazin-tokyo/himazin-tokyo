@@ -10,10 +10,9 @@
 
 ## 🛠️ :𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤
 
-<details>
  <summary>yuki</summary>
  <summary>Proxy</summary>
-<details>
+
  <summary>Proxy</summary>
 
  
