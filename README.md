@@ -9,5 +9,4 @@
 
 
 ## 🛠️ :𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤
-## <details>
-## <summary><b>𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤</b></summary>
+## <details>🛠️𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤</details>
