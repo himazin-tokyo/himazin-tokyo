@@ -8,5 +8,6 @@
 </div>
 
 
-## 🛠️ :𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤
-## <details>🛠️𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤</details>
+## 🛠️ :Projects
+<details>
+<summary>Web sites</summary>
