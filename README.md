@@ -10,7 +10,7 @@
 ## 🛠️ :Projects
 ### * Proxy
 ### * Youtube
-*[Yuki Youtube(sui-han-ki ver.)](https://.com)*
+*[Yuki Youtube(sui-han-ki ver.)]()*
 
 yuki youtube is one of the youtube proxy.It is so useful.(I wasn't make it.I Imported.)
 
