@@ -10,6 +10,6 @@
 ## 🛠️ :Projects
 ### * Proxy
 ### * Youtube
-**[Yuki Youtube(sui-han-ki ver.)](https://google.com)**
+*[Yuki Youtube(sui-han-ki ver.)](https://google.com)*
 
 ### * Game
