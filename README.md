@@ -11,10 +11,3 @@
 ## 🛠️ :𝕎𝕖𝕓 𝕤𝕚𝕥𝕖𝕤
 <details>
 <summary><b>Overview</b></summary>
-
-<hr>
-
-<details>
- 
-<details>
-<summary><b>Overview</b></summary>
